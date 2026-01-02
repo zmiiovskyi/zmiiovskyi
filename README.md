@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+I’m **Mykhailo**, a Data Scientist based in Ukraine.
+
 <!--
 **zmiiovskyi/zmiiovskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
